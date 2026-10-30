@@ -175,14 +175,20 @@ Les déplacements simulent l'axe isométrique du jeu :
 ## 🚀 Installation & Lancement
 
 ```bash
+# Créer un environnement virtuel
+python3 -m venv C:/chemin/du/nouveau/environnement/virtuel
+
+# Activer votre environnement virtuel
+source C:/chemin/du/nouveau/environnement/virtuel/bin/activate
+
 # Installer les dépendances
 pip install torch pygame numpy
 
 # Lancer le jeu / mode démonstration
-python main.py
+python3 main.py
 
 # Lancer l'entraînement rapide sans interface
-python main.py --headless
+python3 main.py --headless
 ```
 <p align="right">
   <a href="#top">⬆️ <b>Retour en haut</b></a>
