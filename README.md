@@ -85,14 +85,20 @@ Movement mimics isometric diagonals:
 ### Installation & Execution
 
 ```bash
+# Create a virtual environment
+python3 -m venv C:/path/to/new/virtual/environment
+
+# Activate your virtual environment
+source C:/path/to/new/virtual/environment/bin/activate
+
 # Install dependencies
 pip install torch pygame numpy
 
 # Run graphical evaluation
-python main.py
+python3 main.py
 
 # Run fast training mode
-python main.py --headless
+python3 main.py --headless
 ```
 <p align="right">
   <a href="#top">⬆️ <b>Back to top</b></a>
