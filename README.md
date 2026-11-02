@@ -100,6 +100,11 @@ python3 main.py
 # Run fast training mode
 python3 main.py --headless
 ```
+
+<p align="center">
+  <img src="DemoQbert.gif" alt="Qbert IA Demo" width="600"/>
+</p>
+
 <p align="right">
   <a href="#top">⬆️ <b>Back to top</b></a>
 </p>
@@ -190,6 +195,11 @@ python3 main.py
 # Lancer l'entraînement rapide sans interface
 python3 main.py --headless
 ```
+
+<p align="center">
+  <img src="DemoQbert.gif" alt="Qbert IA Demo" width="600"/>
+</p>
+
 <p align="right">
   <a href="#top">⬆️ <b>Retour en haut</b></a>
 </p> 
